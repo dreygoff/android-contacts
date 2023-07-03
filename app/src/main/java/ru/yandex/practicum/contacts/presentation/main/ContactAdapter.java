@@ -24,7 +24,6 @@ import java.util.Objects;
 import ru.yandex.practicum.contacts.R;
 import ru.yandex.practicum.contacts.databinding.ItemContactBinding;
 import ru.yandex.practicum.contacts.presentation.base.BaseListDiffCallback;
-import ru.yandex.practicum.contacts.presentation.sort.SortTypeUI;
 
 public class ContactAdapter extends RecyclerView.Adapter<ContactAdapter.ViewHolder> {
 
